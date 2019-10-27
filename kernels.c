@@ -17,9 +17,9 @@ pthread_t threads[32];
  * Please fill in the following team struct 
  */
 user_t user = {
-    (char*)  "604778994",            /* UID */
-    (char*)  "Tejasvi Kasturi",          /* Full name */
-    (char*)  "tejaskasturi98@ucla.edu",  /* Email */
+    (char*)  "11111111",            /* UID */
+    (char*)  "abc",          /* Full name */
+    (char*)  "abc@acd.com",  /* Email */
 };
 
 //If you worked with anyone in this project, please indicate that here:
