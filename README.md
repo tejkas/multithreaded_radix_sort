@@ -1,2 +1,2 @@
 # multithreaded_radix_sort
-Multithreaded radix sort implementation in C
+Multithreaded radix sort implementation in C.
